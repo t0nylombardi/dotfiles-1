@@ -25,3 +25,6 @@
   autosquash = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = t0nylombardi
+	email = alombardi.331@gmail.com
